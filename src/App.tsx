@@ -38,7 +38,7 @@ function App() {
               </a>
 
               {/* LeetCode Icon */}
-              <a href="https://leetcode.com/your-profile" className="p-3 bg-gray-800/50 rounded-full hover:scale-110 transition-transform" target="_blank" rel="noopener noreferrer">
+              <a href="https://leetcode.com/u/lGxDFotVAd/" className="p-3 bg-gray-800/50 rounded-full hover:scale-110 transition-transform" target="_blank" rel="noopener noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" className="w-7 h-7 rounded-full" />
               </a>
             </div>
@@ -175,7 +175,7 @@ function App() {
             transition={{ duration: 0.5, ease: "easeOut" }}
             className="bg-gray-800/50 p-6 rounded-xl backdrop-blur-sm border border-gray-700/50 
                       hover:bg-gray-800/70 transition-all transform hover:scale-105 cursor-pointer flex items-center space-x-4"
-            onClick={() => window.open("https://leetcode.com/your-profile", "_blank")}
+            onClick={() => window.open("https://leetcode.com/u/lGxDFotVAd/", "_blank")}
           >
             <FaCode className="w-8 h-8 text-cyan-400 group-hover:rotate-12 transition-transform" />
             <span className="text-lg text-gray-300">LeetCode Profile</span>

@@ -162,10 +162,10 @@ function App() {
             transition={{ duration: 0.5, ease: "easeOut" }}
             className="bg-gray-800/50 p-6 rounded-xl backdrop-blur-sm border border-gray-700/50 
                       hover:bg-gray-800/70 transition-all transform hover:scale-105 cursor-pointer flex items-center space-x-4"
-            onClick={() => window.open("mailto:contact@example.com", "_blank")}
+            onClick={() => window.open("mailto:mishalreueld25@gmail.com", "_blank")}
           >
             <FaEnvelope className="w-8 h-8 text-cyan-400 group-hover:rotate-12 transition-transform" />
-            <span className="text-lg text-gray-300">contact@example.com</span>
+            <span className="text-lg text-gray-300">mishalreueld25@gmail.com</span>
           </motion.div>
 
           {/* LeetCode Card */}

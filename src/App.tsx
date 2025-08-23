@@ -21,7 +21,7 @@ function App() {
               Mishal Reuel D
             </h1>
             <p className="text-2xl text-gray-300 mb-2 animate-[slideUp_0.5s_ease-out_0.3s] opacity-0 [animation-fill-mode:forwards]">
-              Python & AI Enthusiast | Budding Flutter & Full Stack Developer
+              AI & Full Stack Developer | Cloud & DevOps Enthusiast
             </p>
             <p className="text-xl text-gray-400 mb-12 animate-[slideUp_0.5s_ease-out_0.3s] opacity-0 [animation-fill-mode:forwards]">
               B.Tech CSE with a specialization in Cyber Security
